@@ -1,0 +1,8 @@
+{
+    "playerName": "JP",
+    "playerGender": "male",
+    "playerStats": {
+        "health": 100,
+        "nicotine": 100
+    }
+}
